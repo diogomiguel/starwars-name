@@ -1,7 +1,7 @@
 {
   "name": "diogomiguel-starwars-names",
   "description": "Get random Star Wars names",
-  "version": "0.0.0-semantically-release",
+  "version": "0.0.0",
   "main": "src/index.js",
   "scripts": {
     "commit": "git-cz",
